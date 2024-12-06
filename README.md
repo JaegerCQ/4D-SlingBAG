@@ -7,3 +7,15 @@ Large-scale dynamic three-dimensional (3D) photoacoustic imaging (PAI) is signif
 
 ![image](https://github.com/JaegerCQ/4D-SlingBAG/blob/main/figures/4D_pipeline.png)   
 _The overview framework of 4D SlingBAG._
+
+
+## Display of 4D SlingBAG's results
+
+![image](https://github.com/JaegerCQ/4D-SlingBAG/blob/main/figures/4D_liver.gif) 
+_Comparison of reconstruction results of dynamic rat liver between 4D SlingBAG and UBP._  
+
+
+## Guidance
+
+This project is still under construction, we will complete it as soon as possible. Sorry for all the inconvenience!  
+If you have any questions, please be free to contact us. Best wishes!
