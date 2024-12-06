@@ -11,7 +11,7 @@ _The overview framework of 4D SlingBAG._
 
 ## Display of 4D SlingBAG's results
 
-![image](https://github.com/JaegerCQ/4D-SlingBAG/blob/main/figures/4D_liver.gif) 
+![image](https://github.com/JaegerCQ/4D-SlingBAG/blob/main/figures/4D_liver.gif)    
 _Comparison of reconstruction results of dynamic rat liver between 4D SlingBAG and UBP._  
 
 
